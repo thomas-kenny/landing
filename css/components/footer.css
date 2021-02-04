@@ -1,0 +1,18 @@
+.footer {
+  background-color: black;
+  padding: 50px;
+  text-align: center;
+}
+
+.fab {
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  transition: 0.2s;
+
+}
+
+.fab:hover {
+  color: #16c79a;
+}

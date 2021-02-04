@@ -1,0 +1,22 @@
+.banner {
+  background-image:url("https://everybody.org.uk/wp-content/uploads/2018/07/pitch-holmes-chapel-leisure-centre-everybody-sport-recreation-1200x700.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+  padding: 100px;
+}
+
+.container {
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 30px;
+  margin: 50px;
+}
+
+
+.container p {
+  font-weight: bold;
+  margin: 50px;
+}
+
